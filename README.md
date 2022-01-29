@@ -10,7 +10,7 @@
 ## Formations
 
  ![name](https://img.shields.io/badge/HTTP-100%25-blueviolet?style=for-the-badge)
- ![name](https://img.shields.io/badge/NodeJs-10%25-blueviolet?style=for-the-badge)
+ ![name](https://img.shields.io/badge/NodeJs-80%25-blueviolet?style=for-the-badge)
  
 ## Actual projects
  
