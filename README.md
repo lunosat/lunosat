@@ -1,8 +1,9 @@
 ## The truth is out there.
 
-![name](https://c.tenor.com/2aVd0wrnjzIAAAAC/x-files-the-x-files.gif)
 
- <div>
+
+ <div align="center">
+  <img hejght="180em" src="https://c.tenor.com/2aVd0wrnjzIAAAAC/x-files-the-x-files.gif"/>
   <a href="https://github.com/akirahx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akirahx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akirahx&layout=compact&langs_count=7&theme=dracula"/>
