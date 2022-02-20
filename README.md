@@ -1,5 +1,4 @@
-## The truth is out there.
-
+## The truth is out there (profile in construction, do not laugh)
 
 
  <div align="center">
@@ -23,6 +22,8 @@
 ![name](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![name](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
+And more...
+
 ## Trying my luck on ☘️
 
 ![name](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -31,5 +32,4 @@
 
 - [x] Automation
 - [x] Tesla
-- [x] Bella Ciao
 - [x] X Files 
