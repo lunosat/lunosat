@@ -1,12 +1,13 @@
-## The truth is out there (profile in construction, do not laugh)
+<div align="center"><h1>The truth is out there</h1></div>
+<div align="center"><img height="250em" src="https://c.tenor.com/2aVd0wrnjzIAAAAC/x-files-the-x-files.gif"/></div>
+
 
 
  <div align="center">
-  <img hejght="180em" src="https://c.tenor.com/2aVd0wrnjzIAAAAC/x-files-the-x-files.gif"/>
   <a href="https://github.com/akirahx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akirahx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akirahx&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 
 ## Contact ☎️
  
@@ -33,3 +34,5 @@ And more...
 - [x] Automation
 - [x] Tesla
 - [x] X Files 
+
+ </div>
