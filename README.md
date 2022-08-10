@@ -15,7 +15,7 @@
 
 ## Actual projects 👨‍💻
  
- [![name](https://img.shields.io/badge/My Life-2%25-blueviolet?style=for-the-badge)](https://wa.me/+5511912032128?text=!menu)
+ [![name](https://img.shields.io/badge/Life-2%25-blueviolet?style=for-the-badge)](https://wa.me/+5511912032128?text=!menu)
 
 ## Learning / Skills 🧑‍🏫
 
