@@ -5,13 +5,13 @@
 
  <div align="center">
   <a href="https://github.com/akirahx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akirahx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akirahx&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lunosat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunosat&layout=compact&langs_count=7&theme=dracula"/>
 
 
 ## Contact ☎️
  
-[![name](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akirahx)
+[![name](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lunosat)
 
 ## Actual projects 👨‍💻
  
@@ -33,6 +33,6 @@ And more...
 
 - [x] Automation
 - [x] Tesla
-- [x] X Files 
+- [x] Doctor Who
 
  </div>
