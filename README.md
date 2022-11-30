@@ -31,8 +31,10 @@ And more...
 
 ## Loves ❤️
 
+- [X] She
 - [x] Automation
 - [x] Tesla
 - [x] Doctor Who
+- [X] X Files
 
  </div>
