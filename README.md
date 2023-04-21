@@ -2,11 +2,10 @@
 <div align="center"><img height="250em" src="https://c.tenor.com/2aVd0wrnjzIAAAAC/x-files-the-x-files.gif"/></div>
 
 
-
  <div align="center">
   <a href="https://github.com/akirahx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lunosat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunosat&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lunosat&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunosat&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 
 ## Contact ☎️
@@ -31,10 +30,10 @@ And more...
 
 ## Loves ❤️
 
-- [X] She
-- [x] Automation
-- [x] Tesla
-- [x] Doctor Who
-- [X] X Files
+- [X]
+- [x] 
+- [x] 
+- [x] 
+- [X] 
 
  </div>
