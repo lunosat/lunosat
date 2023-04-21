@@ -30,10 +30,6 @@ And more...
 
 ## Loves ❤️
 
-- [X]
-- [x] 
-- [x] 
-- [x] 
-- [X] 
+- [X] I dont know
 
  </div>
